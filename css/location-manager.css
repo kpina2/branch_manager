@@ -1,0 +1,41 @@
+.location-manager-col
+{
+    float:              left;
+    margin:             0 0 20px 0;
+    min-height:         400px;
+    width:              480px;
+}
+.clear-cols
+{
+    clear:              both;
+    height:             1px;
+    width:              100%;
+}
+.manager-section
+{
+    border-bottom:      1px solid #aaa;
+    padding:             6px 0 15px 0;
+}
+.action-feedback
+{
+    background: none repeat scroll 0 0 #B3D4FC;
+    border: 1px solid #105CB6;
+    border-radius: 5px;
+    color: #000000;
+    padding: 8px 0 8px 8px;
+    width:  400px;
+}
+
+.contents-floated
+{
+    min-height:         480px;
+}
+#add-location-submit
+{
+    display:            none;
+}
+#locations-map
+{
+    height:             400px;
+    width:              400px;
+}

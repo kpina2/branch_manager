@@ -1,0 +1,44 @@
+#feedback-div-wrap
+{
+    
+}
+#feedback-div
+{
+    margin:         auto;
+    margin-bottom:  25px;
+    width:          450px;
+}
+.feedback
+{
+     padding:       8px;
+}
+.alert
+{
+    border:         1px solid #ff0000;
+    background:     #ffcccc;
+}
+.message
+{
+    border:         1px solid #009900;
+    background:     #99ff99;
+}
+.hidden
+{
+    display:        none;
+}
+.contractor-form table
+{
+    margin:         auto;
+}
+
+.contractor-form input[type=text]
+{
+    text-align:     right;
+    width:          200px;
+}
+
+.contractor-form select
+{
+    text-align:     right;
+    width:          200px;
+}

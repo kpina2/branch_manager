@@ -1,0 +1,23 @@
+Order Deny,Allow
+Deny from all
+
+<Files index.php>
+    Order Allow,Deny
+    Allow from all
+</Files>
+
+<Files location_ajax_api.php>
+    Order Allow,Deny
+    Allow from all
+</Files>
+
+<Files branch_export.php>
+    Order Allow,Deny
+    Allow from all
+</Files>
+
+<Files contractor_export.php>
+    Order Allow,Deny
+    Allow from all
+</Files>
+
